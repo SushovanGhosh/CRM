@@ -1,0 +1,9 @@
+{
+	"name": "sgxx-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1ca20d02-4e58-4109-841d-9a2ee25ae955",
+		"tenantId": "0730974b-cf7e-4d43-9439-1aecca4d5e0e"
+	}
+}
